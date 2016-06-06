@@ -1,0 +1,506 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJk4UgIl7KQEYRg4_Ryvbb770",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "EilMYXJzIEZ5a2VydWRzIHZlZyA3LCAzNjc5IE5vdG9kZGVuLCBOb3JnZQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJF-nBjYbKQEYRVz4JMCcj6vE",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 59.5661278,
+          "lng": 9.284840899999999
+        },
+        "southwest": {
+          "lat": 59.5556931,
+          "lng": 9.2560646
+        }
+      },
+      "copyrights": "Map data ©2016 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "0.7 km",
+            "value": 678
+          },
+          "duration": {
+            "text": "8 mins",
+            "value": 479
+          },
+          "end_address": "Lars Fykeruds veg 7, 3679 Notodden, Norway",
+          "end_location": {
+            "lat": 59.5654637,
+            "lng": 9.2814771
+          },
+          "start_address": "Kjærlighetsstien 19, 3681 Notodden, Norway",
+          "start_location": {
+            "lat": 59.5625225,
+            "lng": 9.2844775
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 331
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 232
+              },
+              "end_location": {
+                "lat": 59.5650432,
+                "lng": 9.2824311
+              },
+              "html_instructions": "Head <b>northeast</b> on <b>Kjærlighetsstien</b> toward <b>Kongsbergveien</b>/<b>E134</b>",
+              "polyline": {
+                "points": "whpjJ_ktw@AACGCGEGCEECEEECAAEAEACAEAEAEAGAYGGAS@MHGFCDGNK\\WdAM^Wh@ILo@dASVUTWTo@^]P]TORKT"
+              },
+              "start_location": {
+                "lat": 59.5625225,
+                "lng": 9.2844775
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 166
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 104
+              },
+              "end_location": {
+                "lat": 59.5641919,
+                "lng": 9.2800914
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Kongsbergveien</b>/<b>E134</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "oxpjJe~sw@f@lAj@vAN^Rj@HR@FDTHb@Jz@BZ@L@N?H@J"
+              },
+              "start_location": {
+                "lat": 59.5650432,
+                "lng": 9.2824311
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 181
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 143
+              },
+              "end_location": {
+                "lat": 59.5654637,
+                "lng": 9.2814771
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Lars Fykeruds veg</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "espjJqosw@e@Ek@CCAk@AQEMEQQOc@Wy@CKAI?MAIAGAGCG?OESKa@"
+              },
+              "start_location": {
+                "lat": 59.5641919,
+                "lng": 9.2800914
+              },
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        },
+        {
+          "distance": {
+            "text": "2.3 km",
+            "value": 2331
+          },
+          "duration": {
+            "text": "26 mins",
+            "value": 1586
+          },
+          "end_address": "Heddalsvegen 4, 3674 Notodden, Norway",
+          "end_location": {
+            "lat": 59.5556931,
+            "lng": 9.257653900000001
+          },
+          "start_address": "Lars Fykeruds veg 7, 3679 Notodden, Norway",
+          "start_location": {
+            "lat": 59.5654637,
+            "lng": 9.2814771
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 138
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 111
+              },
+              "end_location": {
+                "lat": 59.5661278,
+                "lng": 9.2798123
+              },
+              "html_instructions": "Head <b>southwest</b> on <b>Lars Fykeruds veg</b> toward <b>Grotbekkvegen</b>",
+              "polyline": {
+                "points": "c{pjJgxsw@J`@DR?NAPCRCTGNGHABk@l@MPGJWh@MVOVCF"
+              },
+              "start_location": {
+                "lat": 59.5654637,
+                "lng": 9.2814771
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 138
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 91
+              },
+              "end_location": {
+                "lat": 59.56572079999999,
+                "lng": 9.277595999999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Grotbekkvegen</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "i_qjJymsw@Vj@J^J\\BDDTBf@Ap@@`@B~@@FLnB"
+              },
+              "start_location": {
+                "lat": 59.5661278,
+                "lng": 9.2798123
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 243
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 169
+              },
+              "end_location": {
+                "lat": 59.56554419999999,
+                "lng": 9.273322499999999
+              },
+              "html_instructions": "Continue onto <b>Høybødalen</b>",
+              "polyline": {
+                "points": "w|pjJ_`sw@@V?l@CdB?\\?VAf@@r@?T@d@F`BFvBFt@Bv@H~BAT"
+              },
+              "start_location": {
+                "lat": 59.56572079999999,
+                "lng": 9.277595999999999
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "90 m",
+                "value": 90
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 61
+              },
+              "end_location": {
+                "lat": 59.56606279999999,
+                "lng": 9.2721962
+              },
+              "html_instructions": "Continue straight onto <b>Kongsbergveien</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "s{pjJgerw@ADCNIt@ADEZI\\GLEJIHCD_@\\?@EBCD"
+              },
+              "start_location": {
+                "lat": 59.56554419999999,
+                "lng": 9.273322499999999
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "27 m",
+                "value": 27
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 17
+              },
+              "end_location": {
+                "lat": 59.5660775,
+                "lng": 9.2717111
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Kongsbergveien</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{~pjJg~qw@Ap@An@"
+              },
+              "start_location": {
+                "lat": 59.56606279999999,
+                "lng": 9.2721962
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "16 m",
+                "value": 16
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 10
+              },
+              "end_location": {
+                "lat": 59.5659377,
+                "lng": 9.2716617
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Kongsbergveien</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "__qjJe{qw@PDHB"
+              },
+              "start_location": {
+                "lat": 59.5660775,
+                "lng": 9.2717111
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 215
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 153
+              },
+              "end_location": {
+                "lat": 59.56527209999999,
+                "lng": 9.2682582
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Storgata</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "c~pjJ{zqw@Cd@Ch@@t@@Z@BDt@Hl@Hb@FXLr@FZDb@DTRn@FPB^Dj@@VBL@FHNJH"
+              },
+              "start_location": {
+                "lat": 59.5659377,
+                "lng": 9.2716617
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "70 m",
+                "value": 70
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 49
+              },
+              "end_location": {
+                "lat": 59.5655789,
+                "lng": 9.2672023
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Storgata</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}ypjJseqw@AHEZCPMdAABQx@ELIH"
+              },
+              "start_location": {
+                "lat": 59.56527209999999,
+                "lng": 9.2682582
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1105
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 718
+              },
+              "end_location": {
+                "lat": 59.5577966,
+                "lng": 9.256133199999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Storgata</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{{pjJ__qw@?FBPJb@FLHJJHLBLD|@ZVJ|@ZPF|@XXJHBZPNJXTx@h@v@j@XVJNf@z@@@Pd@Pl@FRH^DTBFb@xBZ~AHZX|ADRJh@Jd@L`@HPFHNPJJr@n@JJPVNZ^p@Td@j@hAl@jAP\\JR`@v@Zh@LPx@zAP^JTZl@Vd@R\\JPPV\\n@HNDLDLDJBD^d@v@|@JT"
+              },
+              "start_location": {
+                "lat": 59.5655789,
+                "lng": 9.2672023
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "47 m",
+                "value": 47
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 59.5574053,
+                "lng": 9.256291899999999
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Heddalsvegen</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "gkojJyynw@NQBABAF@PBH@DAFCBK"
+              },
+              "start_location": {
+                "lat": 59.5577966,
+                "lng": 9.256133199999999
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "28 m",
+                "value": 28
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 59.5571783,
+                "lng": 9.2560646
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Heddalsvegen</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yhojJyznw@HHDFJH?@JHBB@@"
+              },
+              "start_location": {
+                "lat": 59.5574053,
+                "lng": 9.256291899999999
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "63 m",
+                "value": 63
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 48
+              },
+              "end_location": {
+                "lat": 59.55694380000001,
+                "lng": 9.257046700000002
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Heddalsvegen</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kgojJkynw@DOHQFSDQDQ@O@]@]@Q@I@C"
+              },
+              "start_location": {
+                "lat": 59.5571783,
+                "lng": 9.2560646
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "86 m",
+                "value": 86
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 63
+              },
+              "end_location": {
+                "lat": 59.5561832,
+                "lng": 9.257133399999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Heddalsvegen</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{eojJq_ow@`@Kf@INATEH?LDNF"
+              },
+              "start_location": {
+                "lat": 59.55694380000001,
+                "lng": 9.257046700000002
+              },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "65 m",
+                "value": 65
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 59.5556931,
+                "lng": 9.257653900000001
+              },
+              "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "caojJa`ow@@G?I@I@C@CFIVOn@a@HG"
+              },
+              "start_location": {
+                "lat": 59.5561832,
+                "lng": 9.257133399999999
+              },
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "whpjJ_ktw@OYUSk@Oa@IS@MHKLSl@e@dBa@v@cA|Am@j@mAp@]TORKTf@lAz@vB\\~@F\\T~ADh@@X@Je@Eo@Ek@AQEMEQQg@}AGm@COCWQu@Pt@A`@Gh@OXm@p@U\\e@`AS^b@jANb@H|@?rADfANfCCrC?pC@z@NxEJlBH~BATETKz@Ox@MXm@n@IHC`BZHGnABpAFx@RpATlAL~@XdAFPB^FbADTTXY|BS|@OVBXRp@TTZHtAf@nAb@vAd@d@Th@`@pBtAd@f@h@|@b@rAPr@hAvFt@vDXfAPZzAxAvAjCvBfEdCnEpAhCnAvBZv@b@j@bArARSJ?ZDLEBKHHDFZX@@DOPe@Jc@Bm@F}@hAUd@GVDNF@G@SBGxAcA"
+      },
+      "summary": "Kjærlighetsstien and Lars Fykeruds veg",
+      "warnings": [
+        "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": [
+        0
+      ]
+    }
+  ],
+  "status": "OK"
+}
